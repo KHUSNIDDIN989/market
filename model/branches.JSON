@@ -1,0 +1,23 @@
+[
+    {
+        "id": 3,
+        "market_id": 3,
+        "name": "Metro",
+        "adrress": "chorsu xadra"
+    },
+    {
+        "id": 2,
+        "market_id": 1,
+        "name": "Metro",
+        "address": "chorsu xadra"
+    },
+    {
+        "id": 8,
+        "name": "mmm",
+        "address": "qqq"
+    },
+    {
+        "id": 5,
+        "name": "halil"
+    }
+]

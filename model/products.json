@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "branch_id": 1,
+        "name": "akoo",
+        "price": 112,
+        "count": 1221212
+    },
+    {
+        "id": 3,
+        "branch_id": 3,
+        "name": "JAlmat",
+        "price": 20000,
+        "count": 101111
+    }
+]
